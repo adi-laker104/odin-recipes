@@ -1,0 +1,2 @@
+The goal of this project is to get practice building a recipe page in html. The framework for the project is a landing page, which had links to 3 different webpages with unique recipes. 
+Each recipe webpage has: an image (along with a link to the image), recipe steps, and recipe ingredients.
