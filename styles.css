@@ -2,7 +2,16 @@
     font-family: "Garamond", "Arial", serif;
 }
 
-h1 {
+.main, h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+h1, h5 {
     color: green;
 }
 
@@ -13,10 +22,13 @@ a {
 h5 {
     font-size: 24px;
     font-weight: bold;
+    margin-left: 1em;
+    margin-bottom: 0px;
 }
 
 .caption {
     font-size: 12px;
+    text-align: center;
 }
 
 ul, ol {
@@ -24,5 +36,11 @@ ul, ol {
 }
 
 .recipe_name {
-    color:brown;
+    display: inline-block;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 0px;
 }
